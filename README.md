@@ -17,11 +17,17 @@
 	</strong>
 </p>
 
+---
+
 <p align="center">
-	<img src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/overview.png" width="550">
+	<img src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/whatissnapvault.gif" width="800">
 </p>
 
+---
+
 # Overview
+
+
 
 - **Create Summarization** of any Screenshots.
 - **Similarity Search** of bunch of Screenshots.
@@ -40,20 +46,70 @@
 
 <div align="center">
 
-**[STORY](https://github.com/chroline/well_app#-project-philosophy) • 
-[USE CASE](https://github.com/chroline/well_app#-tech-stack) • 
-[ROADMAP](https://github.com/chroline/well_app#-spread-the-word) • 
-[CONTRIBUTING](https://github.com/chroline/well_app#%EF%B8%8F-contributing) • 
-[CONTACT](https://github.com/chroline/well_app#%EF%B8%8F-license)**
+[STORY](#🧐-story) • [USE CASE](#👨‍💻-use-case) • [ROADMAP](#🌟-roadmap) • [PARTNERS](#🤝-partners) • [CONTACT](#💛-contact)
 
 </div>
 
-## Story
+## 🧐 Story
 
-## Use case
+**인공지능 스크린샷 매니지먼트 서비스** “`SnapVault`”는
+디지털 세계를 쉽게 캡처하고, 구성 및 분석하여
+**모두가 정보를 가치 있게 활용할 수 있는 세상**을 만들기 위해 탄생했습니다.
 
-## Roadmap
+오늘날 우리는 전 세계의 풍부한 정보를 손끝에서 접할 수 있는 행운을 누리고 있습니다.
+우리를 둘러싸고 있는 광대한 데이터의 바다를 더욱 관리하기 쉽고 효율적이며
+개개인에게 영향력 있게 만드는 세상을 꿈꾸고 있죠.
 
-## Contributing
+“`SnapVault`”의 **가장 간단하고 효율적인 스크린샷 툴**을 사용해 보세요.
+**사용자 친화적이고 직관적인 인터페이스**를 통해 웹브라우저, 문서, 이미지, 촬영 등
+**어떤 환경에서도 원하는 콘텐츠를 쉽게 수집**할 수 있습니다.
 
-## Contact
+수집한 콘텐츠를 **클라우드에 자동으로 정리**하고 언제든지 쉽게 찾을 수 있도록 도와줍니다.
+**태그 지정 및 분류 기능**을 구현하여 콘텐츠를 효율적으로 관리할 수 있죠.
+이를 통해 키워드, 카테고리 또는 테마를 기반으로 **특정 항목을 빠르게 찾을 수도 있습니다.**
+
+한 단계 더 나아가 **콘텐츠의 이미지와 텍스트를 분석하고 내용을 요약해 제공**해 줍니다.
+그래픽, 텍스트, 다이어그램, 손글씨, 이미지의 풍경이나 사물 등을 인식하고
+데이터를 신속하게 평가해 **의사 결정 및 지식 향상을 위한 귀중한 리소스를 추출**할 수 있습니다.
+
+또한 **활용 목적에 맞게 정보를 처리하고 재구성**하여
+생산성을 높이고 정보를 유용하게 만들어줍니다.
+업무와 연구 또는 개인 일상 등 **사용 목적에 맞춤화된 콘텐츠로 재생산하여 제공**하죠.
+예를 들어, 프레젠테이션을 구성할 수 있는 스크립트를 작성해 주거나,
+보고서용 데이터를 추출하고, 문서의 내용을 풍부하게 만들어 줄 수도 있습니다.
+
+이처럼 우리는 디지털 세계의 필수 파트너로 성장하고, 
+**콘텐츠와 상호 작용하는 방식을 재정의**하여
+정보를 손쉽게 이용할 수 있는 미래를 만들어가고 있습니다.
+
+### **We can become smarter, “`SnapVault`”**
+
+</br>
+
+## 👨‍💻 Use Case
+
+## 🌟 Roadmap
+
+## 🤝 Partners
+This project would not be possible without the support of our partners. Thank you for your support!
+
+</br>
+
+<div align="center">
+	<img
+		width="200"
+		alt="Snapvault"
+		src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/dcamp.png">
+    </img>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img
+		width="200"
+		alt="Snapvault"
+		src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/frontone.png">
+    </img>
+</div>
+
+</br>
+
+## 💛 CONTACT
+- info@snapvault.io
