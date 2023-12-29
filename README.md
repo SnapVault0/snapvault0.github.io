@@ -1,9 +1,13 @@
+</br>
+
 <h1 align="center">
 	<img
 		width="450"
 		alt="Snapvault"
 		src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/snapvault-vertical.svg?sanitize=true">
 </h1>
+
+</br>
 
 <h3 align="center">
 	An Ultimate Screenshots Manager powered by AI Vision and GPT
@@ -17,7 +21,7 @@
 	</strong>
 </p>
 
----
+</br>
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/whatissnapvault.gif" width="800">
