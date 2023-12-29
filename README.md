@@ -23,7 +23,7 @@
 
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/whatissnapvault.gif" width="800">
+	<img src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/whatissnapvault2.gif" width="800">
 </p>
 
 ---
