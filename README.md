@@ -15,9 +15,9 @@
 
 <p align="center">
 	<strong>
-		<a href="https://app.snapvault.io">Website</a>
+		<a href="https://app.snapvault.io" target="_blank">WebApp</a>
 		•
-		<a href="https://discord.gg/UbzwpeFR">Discord</a>
+		<a href="https://discord.gg/UbzwpeFR" target="_blank">Discord</a>
 	</strong>
 </p>
 
