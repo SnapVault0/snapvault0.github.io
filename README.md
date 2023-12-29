@@ -1,4 +1,4 @@
-</br>
+
 
 <h1 align="center">
 	<img
@@ -7,11 +7,11 @@
 		src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/snapvault-vertical.svg?sanitize=true">
 </h1>
 
-</br>
 
 <h3 align="center">
 	An Ultimate Screenshots Manager powered by AI Vision and GPT
 </h3>
+
 
 <p align="center">
 	<strong>
@@ -21,7 +21,6 @@
 	</strong>
 </p>
 
-</br>
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/whatissnapvault.gif" width="800">
@@ -40,9 +39,7 @@
 ### The Snapvault is available for beta! 🥳 🚀
 
 - Web: Visit [https://app.snapvault.io](https://app.snapvault.io). In Beta, Free use for full-functionality features with AI Vision and GPT.
-- IOS/Android: <sub><sup>coming soon 👀</sup></sub>
-
-</br>
+- IOS/Android: <sub><sup>Coming Soon 👀</sup></sub>
 
 ---
 
@@ -110,13 +107,11 @@ This project would not be possible without the support of our partners. Thank yo
 		width="200"
 		alt="Snapvault"
 		src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/dcamp.png">
-    </img>
     &nbsp; &nbsp; &nbsp; &nbsp;
     <img
 		width="200"
 		alt="Snapvault"
 		src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/frontone.png">
-    </img>
 </div>
 
 ## 💛 Contact Us
