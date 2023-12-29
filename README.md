@@ -119,6 +119,6 @@ This project would not be possible without the support of our partners. Thank yo
     </img>
 </div>
 
-## 💛 CONTACT
+## 💛 Contact Us
 Please feel free to contact us if you have any other information. 
 ### info@snapvault.io
