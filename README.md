@@ -31,8 +31,6 @@
 
 # Overview
 
-
-
 - **Create Summarization** of any Screenshots.
 - **Similarity Search** of bunch of Screenshots.
 - **QnA with your Screenshots** as second brain.
@@ -48,11 +46,19 @@
 
 ---
 
-<div align="center">
-
-[STORY](#🧐-story) • [USE CASE](#👨‍💻-use-case) • [ROADMAP](#🌟-roadmap) • [PARTNERS](#🤝-partners) • [CONTACT](#💛-contact)
-
-</div>
+<p align="center">
+	<strong>
+		<a href="#🧐-story">STORY</a>
+		•
+		<a href="#👨‍💻-use-case">USE CASE</a>
+        •
+		<a href="#🌟-roadmap">ROADMAP</a>
+        •
+		<a href="#🤝-partners">PARTNERS</a>
+        •
+		<a href="#💛-contact">CONTACT</a>
+	</strong>
+</p>
 
 ## 🧐 Story
 
@@ -88,16 +94,16 @@
 
 ### **We can become smarter, “`SnapVault`”**
 
-</br>
-
 ## 👨‍💻 Use Case
+
+Working In Process
 
 ## 🌟 Roadmap
 
+Working In Process
+
 ## 🤝 Partners
 This project would not be possible without the support of our partners. Thank you for your support!
-
-</br>
 
 <div align="center">
 	<img
@@ -113,7 +119,6 @@ This project would not be possible without the support of our partners. Thank yo
     </img>
 </div>
 
-</br>
-
 ## 💛 CONTACT
-- info@snapvault.io
+Please feel free to contact us if you have any other information. 
+### info@snapvault.io
