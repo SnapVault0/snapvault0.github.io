@@ -116,4 +116,4 @@ This project would not be possible without the support of our partners. Thank yo
 
 ## 💛 Contact Us
 Please feel free to contact us if you have any other information. 
-### [info\@snapvault.io](mailto:info@snapvault.io)
+### [info@snapvault.io](mailto:info@snapvault.io)
