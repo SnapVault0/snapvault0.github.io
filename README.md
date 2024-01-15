@@ -101,13 +101,13 @@ Working In Process
 
 ## 🌟 Roadmap
 
-[X]&nbsp;(📅 December 2023)  Build Demo Application for Proof of Concept. (Using Flutter, Web App)
-[X]&nbsp;(📅 January 2024)  Port to JS. (FE: Svelte, BE: FastApi, DB: postgresql + pgvector)
-[ ]&nbsp;(📅 February 2024)  Launch Open Beta include User Custom App Builder(Prompt Engineering with Collections of Screenshots).
-[ ]&nbsp;(📅 March 2024)  Sync to Screenshots in Devices(PC, Mobile), WebDrive(Google Drive, Dropbox).
-[ ]&nbsp;(📅 April 2024)  Integrate with Notion, Slack, and other useful productivity apps.
-[ ]&nbsp;(📅 May 2024)  Team Workspace, Sharable User Custom Apps.
-[ ]&nbsp;(📅 June 2024)  Launching First Release of Snapvault with Business Models.
+- [X] \(📅 December 2023)  Build Demo Application for Proof of Concept. (Using Flutter, Web App)
+- [X] \(📅 January 2024)  Port to JS. (FE: Svelte, BE: FastApi, DB: postgresql + pgvector)
+- [ ] \(📅 February 2024)  Launch Open Beta include User Custom App Builder(Prompt Engineering with Collections of Screenshots).
+- [ ] \(📅 March 2024)  Sync to Screenshots in Devices(PC, Mobile), WebDrive(Google Drive, Dropbox).
+- [ ] \(📅 April 2024)  Integrate with Notion, Slack, and other useful productivity apps.
+- [ ] \(📅 May 2024)  Team Workspace, Sharable User Custom Apps.
+- [ ] \(📅 June 2024)  Launching First Release of Snapvault with Business Models.
 
 
 ## 🤝 Partners
