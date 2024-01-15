@@ -93,30 +93,39 @@
 
 ### **We can become smarter, “`SnapVault`”**
 
+</br>
+
 
 ## 👨‍💻 Use Case
 
 Working In Process
 
+</br>
+
 
 ## 🌟 Roadmap
 
-- [X] \(📅 December 2023)  Build Demo Application for Proof of Concept. (Using Flutter, Web App)
-- [X] \(📅 January 2024)  Port to JS. (FE: Svelte, BE: FastApi, DB: postgresql + pgvector)
-- [ ] \(📅 February 2024)  Launch Open Beta include User Custom App Builder(Prompt Engineering with Collections of Screenshots).
-- [ ] \(📅 March 2024)  Sync to Screenshots in Devices(PC, Mobile), WebDrive(Google Drive, Dropbox).
-- [ ] \(📅 April 2024)  Integrate with Notion, Slack, and other useful productivity apps.
-- [ ] \(📅 May 2024)  Team Workspace, Sharable User Custom Apps.
-- [ ] \(📅 June 2024)  Launching First Release of Snapvault with Business Models.
+- [x] &nbsp;(📅 December 2023)  Build Demo Application for Proof of Concept. (Using Flutter, Web App)
+- [x] &nbsp;(📅 January 2024)  Port to JS. (FE: Svelte, BE: FastApi, DB: postgresql + pgvector)
+- [ ] &nbsp;(📅 February 2024)  Launch Open Beta include User Custom App Builder(Prompt Engineering with Collections of Screenshots).
+- [ ] &nbsp;(📅 March 2024)  Sync to Screenshots in Devices(PC, Mobile), WebDrive(Google Drive, Dropbox).
+- [ ] &nbsp;(📅 April 2024)  Integrate with Notion, Slack, and other useful productivity apps.
+- [ ] &nbsp;(📅 May 2024)  Team Workspace, Sharable User Custom Apps.
+- [ ] &nbsp;(📅 June 2024)  Launching First Release of Snapvault with Business Models.
+
+</br>
 
 
 ## 🤝 Partners
 This project would not be possible without the support of our partners. Thank you for your support!
 
+</br>
 
 <a href="https://dcamp.kr/" target="blank"><img height="40" style="margin-right: 10px; margin-left: 10px" src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/dcamp.png"></a>
 <a href="https://front1.kr/" target="blank"><img height="40" style="margin-right: 10px; margin-left: 10px"  src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/frontone.png"></a>
 <a href="https://venture.yonsei.ac.kr/" target="blank"><img height="40" style="margin-right: 10px; margin-left: 10px"  src="https://raw.githubusercontent.com/SnapVault0/snapvault0.github.io/main/scube.png"></a>
+
+</br>
 
 
 ## 💛 Contact Us
